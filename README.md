@@ -12,5 +12,5 @@ Customize parameters like size, error correction, box size, and colors.
 Prerequisites: 
 To run these scripts, ensure you have Python 3 installed and the following libraries:
 
-qrcode: For generating QR codes.
+qrcode: For generating QR codes.                                                                                                             
 Pillow: For handling image customization (used in customize_qr.py).
